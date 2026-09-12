@@ -1,0 +1,6 @@
+{
+  "name": "Wire - Real-Time Chat & Calls",
+  "description": "Modern real-time chatting and audio/video calling application with instant database connection, live synchronization, and contact messaging.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
